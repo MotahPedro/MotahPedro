@@ -16,5 +16,9 @@
 </p>
 
 ---
+### Lista de Projetos:
+**Repositório: [Pokedex-V1](https://github.com/MotahPedro/Pokedex-V1)**
+>**Site: [Pokedex-V1-Site](https://motahpedro.github.io/Pokedex-V1/)**
+---
 
 ## Agradeço por visitar meu perfil e espero que meus projetos possam ser úteis e inspiradores para você. Vamos juntos construir soluções tecnológicas incríveis! Pedro Henrique Mota

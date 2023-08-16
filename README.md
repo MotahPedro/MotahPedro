@@ -22,3 +22,5 @@
 ---
 
 ## Agradeço por visitar meu perfil e espero que meus projetos possam ser úteis e inspiradores para você. Vamos juntos construir soluções tecnológicas incríveis! Pedro Henrique Mota
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 

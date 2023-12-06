@@ -31,9 +31,11 @@
 >**Repositórios:**            
 >**[Pokedex-V1](https://github.com/MotahPedro/Pokedex-V1)**          
 >**[Veterinary REST API](https://github.com/MotahPedro/Compass-Desafio-1)**
+>**[TypeScript & React Calculator](https://github.com/MotahPedro/Calculator-TS)**
 
 >**Sites:**        
 >**[Pokedex-V1-Site](https://motahpedro.github.io/Pokedex-V1/)**
+>**[TypeScript & React Calculator - Site](https://motahpedro.github.io/Calculator-TS/)**
 
 ## Lista de Projetos em equipe:
 >**Repositórios:**        

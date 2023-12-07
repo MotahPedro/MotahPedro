@@ -35,7 +35,8 @@
 
 >**Sites:**        
 >**[Pokedex-V1-Site](https://motahpedro.github.io/Pokedex-V1/)**              
->**[TypeScript & React Calculator - Site](https://motahpedro.github.io/Calculator-TS/)**            
+>**[TypeScript & React Calculator - Site](https://motahpedro.github.io/Calculator-TS/)**              
+>**[React Climatic API - Site](https://motahpedro.github.io/React-Climatic-API/)**
 
 ## Lista de Projetos em equipe:
 >**Repositórios:**        

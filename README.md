@@ -1,6 +1,6 @@
 ## Olá 👋
 
-### Meu nome é Pedro Henrique Mota, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca. Sou um entusiasta da área de tecnologia e estou constantemente em busca de conhecimentos e habilidades para aprimorar meu perfil como desenvolvedor.
+### Meu nome é Pedro Henrique Mota, tenho 22 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca. Sou um entusiasta da área de tecnologia e estou constantemente em busca de conhecimentos e habilidades para aprimorar meu perfil como desenvolvedor.
 
 ### Sinta-se à vontade para explorar meus projetos, clonar repositórios e contribuir com novas ideias e melhorias. Acredito na importância da colaboração e aprendizado coletivo, então, se você tiver alguma sugestão ou questionamento, fique à vontade para entrar em contato.
 
